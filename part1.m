@@ -9,8 +9,8 @@ Date            Changes             Programmer
 -------------------------------------------------------
 04/15/25        original            Jerom Jothiprakasam
 04/15/25        part (a)            Jerom Jothiprakasam
+04/15/25        part (b)            Jerom Jothiprakasam
 04/15/25        part (c)            Jerom Jothiprakasam
-04/15/25        part (a)            Jerom Jothiprakasam
 %}
 
 clc;
